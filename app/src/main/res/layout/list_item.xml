@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/attraction_image_view"
+        android:layout_width="@dimen/list_item_image_width"
+        android:layout_height="@dimen/list_item_image_height"
+        android:layout_gravity="top"
+        android:scaleType="centerCrop"
+        android:padding="@dimen/icon_padding"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/list_item_image_left_margin"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:minHeight="@dimen/list_item_height"
+        android:orientation="horizontal"
+        tools:background="@android:color/background_dark">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/attraction_title_text_view"
+                style="@style/ListTitleTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                tools:text="Hagios Demetrios" />
+
+            <TextView
+                android:id="@+id/attraction_description_text_view"
+                style="@style/ListDescriptionTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:justificationMode="inter_word"
+                tools:text="The Church of Saint Demetrius, or Hagios Demetrios, is the main sanctuary dedicated to Saint Demetrius, the patron saint of Thessaloniki, dating from a time when it was the second largest city of the Byzantine Empire." />
+
+            <TextView
+                android:id="@+id/attraction_address_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/ListInfoTextStyle"
+                tools:text="Agiou Dimitriou, Thessaloniki 546 33"/>
+            <TextView
+                android:id="@+id/attraction_phone_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/ListInfoTextStyle"
+                tools:text="231 027 0008"/>
+            <TextView
+                android:id="@+id/attraction_hours_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/ListInfoTextStyle"
+                tools:text="Mon-Sun 10.00-23.00"/>
+
+            <TextView
+                android:id="@+id/attraction_other_text_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/ListInfoTextStyle"
+                tools:text="Other description" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

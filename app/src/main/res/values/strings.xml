@@ -1,0 +1,226 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Tour Guide, Thessaloniki</string>
+    <!-- Category names: Churches / Holy / Spiritual places -->
+    <string name="category_churches">Churches</string>
+    <!-- Category names: Museums -->
+    <string name="category_museums">Museums</string>
+    <!-- Category names: Landmarks and other tourist attractions -->
+    <string name="category_landmarks">Landmarks</string>
+    <!-- Category names: Food and Wine, Restaurants -->
+    <string name="category_food">Food</string>
+    <!-- Info, Church, Rotonda -->
+    <string name="ch_rotonda_title">Rotònda Roman Temple</string>
+    <string name="ch_rotonda_description">"Circular building built as a house of worship by Romans in the early 300s and known for its mosaics."</string>
+    <string name="ch_rotonda_address">Pl. Agiou Georgiou Rotonta 5, Thessaloniki 546 35</string>
+    <string name="ch_rotonda_hours">"Mon: Closed\nTue-Sun: 8AM–3:45PM"</string>
+    <string name="ch_rotonda_phone">+30 231 096 8860</string>
+    <!-- Info, Church, Hagia Sophia -->
+    <string name="ch_sop_title">Hagia Sophia</string>
+    <string name="ch_sop_description">"The Hagia Sophia in Thessaloniki, Greece, is one of the oldest churches in that city still standing today. It is one of several monuments in Thessaloniki included as a World Heritage Site on the UNESCO list."</string>
+    <string name="ch_sop_address">Agias Sofias, Thessaloniki 546 22</string>
+    <string name="ch_sop_hours">OPEN ALL DAY</string>
+    <string name="ch_sop_phone">+30 231 027 0253</string>
+    <!-- Info, Church, Hagios Demetrios -->
+    <string name="ch_dem_title">Hagios Demetrios</string>
+    <string name="ch_dem_description">The Church of Saint Demetrius, or Hagios Demetrios, is the main sanctuary dedicated to Saint Demetrius, the patron saint of Thessaloniki, dating from a time when it was the second largest city of the Byzantine Empire.</string>
+    <string name="ch_dem_address">Agiou Dimitriou, Thessaloniki 546 33</string>
+    <string name="ch_dem_hours">OPEN ALL DAY</string>
+    <string name="ch_dem_phone">+30 231 027 0008</string>
+    <!-- Info, Church, Panagia Chalkeon -->
+    <string name="ch_chalk_title">Church of Panagia Chalkeon</string>
+    <string name="ch_chalk_description">The Church of Panagia Chalkeon is an 11th-century Byzantine church in the northern Greek city of Thessaloniki.</string>
+    <string name="ch_chalk_address">Chalkeon 2, Thessaloniki 546 24</string>
+    <string name="ch_chalk_hours">OPEN ALL DAY</string>
+    <string name="ch_chalk_phone">+30 231 027 2910</string>
+    <!-- Info, Church, Hosios David -->
+    <string name="ch_dav_title">Church of Hosios David</string>
+    <string name="ch_dav_description">The Church of Hosios David also referred to as the Latomou Monastery and Suluca Mosque, is a late 5th-century church in Thessaloniki, Greece.</string>
+    <string name="ch_dav_address">Epimenidou 17, Thessaloniki 546 33</string>
+    <string name="ch_dav_hours">OPEN ALL DAY</string>
+    <string name="ch_dav_phone">+30 231 026 1376</string>
+    <!-- Info, Church, Saint Nicholas Orphanos -->
+    <string name="ch_nic_title">Church of Saint Nicholas Orphanos</string>
+    <string name="ch_nic_description">The Church of Saint Nicholas Orphanos is an early 14th-century Byzantine church in the northern Greek city of Thessaloniki.</string>
+    <string name="ch_nic_address">Irodotou 1, Thessaloniki 546 23</string>
+    <string name="ch_nic_hours">OPEN ALL DAY</string>
+    <string name="ch_nic_phone">+30 231 021 3627</string>
+    <!-- Info, Church, Prophet Elijah -->
+    <string name="ch_eli_title">Church of Prophet Elijah</string>
+    <string name="ch_eli_description">The Church of Prophet Elijah is a 14th-century church in Thessaloniki, Greece, and a UNESCO World Heritage Site. The church is located in the upper quarter of the old city, and dates to the Palaiologan period, but its original dedication is unknown.</string>
+    <string name="ch_eli_address">Olimpiados, Thessaloniki 546 33</string>
+    <string name="ch_eli_hours">OPEN ALL DAY</string>
+    <string name="ch_eli_phone">+30 231 027 3790</string>
+    <!-- Info, Church, Vlatades Monastery -->
+    <string name="ch_vla_title">Vlatades Monastery</string>
+    <string name="ch_vla_description">"Vlatades Monastery or Vlatadon Monastery is a monastery in Thessaloniki, Greece. Built in the 14th century during the late Byzantine Empire, it is a UNESCO World Heritage Site."</string>
+    <string name="ch_vla_address">Eptapirgiou 64, Thessaloniki 546 34</string>
+    <string name="ch_vla_hours">Dawn-Dusk</string>
+    <string name="ch_vla_phone">+30 231 024 6357</string>
+
+    <!-- Info, Landmarks, White Tower -->
+    <string name="land_wht_title">White Tower</string>
+    <string name="land_wht_description">"The White Tower of Thessaloniki is a monument and museum on the waterfront of the city of Thessaloniki, capital of the region of Macedonia in northern Greece."</string>
+    <string name="land_wht_address">Thessaloniki 546 21</string>
+    <string name="land_wht_hours">"Mon: Closed\nTue-Sun: 8:30AM–3PM"</string>
+    <string name="land_wht_phone">+30 231 026 7832</string>
+    <!-- Info, Landmarks, Arch of Galerius and Rotunda -->
+    <string name="land_gal_title">Arch of Galerius and Rotunda</string>
+    <string name="land_gal_description">"The Arch of Galerius or Kamara and the Rotunda are neighbouring early 4th-century AD monuments in the city of Thessaloniki, in the region of Central Macedonia in northern Greece."</string>
+    <string name="land_gal_address">Egnatia 144, Thessaloniki 546 22</string>
+    <string name="land_gal_hours">Open 24 hrs</string>
+    <string name="land_gal_phone">+30 231 331 0400</string>
+    <!-- Info, Landmarks, Roman Forum -->
+    <string name="land_rom_title">Roman Forum</string>
+    <string name="land_rom_description">"The Roman Forum of Thessaloniki is the ancient Roman-era forum of the city, located at the upper side of Aristotelous Square. It is a large two-terraced forum featuring two-storey stoas, dug up by accident in the 1960s."</string>
+    <string name="land_rom_address">"Olimpou 75, Thessaloniki 546 31"</string>
+    <string name="land_rom_hours">"Mon-Sun: 8AM–3PM"</string>
+    <string name="land_rom_phone">"+30 231 022 1260"</string>
+    <!-- Info, Landmarks, Heptapyrgion -->
+    <string name="land_hep_title">Heptapyrgion</string>
+    <string name="land_hep_description">"The Heptapyrgion, modern Eptapyrgio, also popularly known by its Ottoman Turkish name Yedi Kule, is a Byzantine and Ottoman-era fortress situated on the north-eastern corner of the acropolis of Thessaloniki in Greece."</string>
+    <string name="land_hep_address">"Dim. Tzachila 7, Thessaloniki 546 34"</string>
+    <string name="land_hep_hours">"Mon: Closed\nTue-Sun: 8:30AM–3PM"</string>
+    <string name="land_hep_phone">"+30 698 888 8888"</string>
+    <!-- Info, Landmarks, Bey Hamam -->
+    <string name="land_ham_title">Bey Hamam</string>
+    <string name="land_ham_description">"Bey Hamam, alternatively known as the \"Baths of Paradise\", is a Turkish bathhouse located along Egnatia Street in Thessaloniki, east of Panagia Chalkeon."</string>
+    <string name="land_ham_address">"Thessaloniki 546 31"</string>
+    <string name="land_ham_hours">"Mon-Sun: 8AM–3PM"</string>
+    <string name="land_ham_phone">"+30 231 022 6931"</string>
+    <!-- Info, Landmarks, OTE Tower -->
+    <string name="land_ote_title">OTE Tower</string>
+    <string name="land_ote_description">"OTE Tower is a 76-metre-tall tower located in the Thessaloniki International Exhibition Center in central Thessaloniki, Greece. The tower opened in 1966 and was renovated in 2005."</string>
+    <string name="land_ote_address">"Helexpo"</string>
+    <string name="land_ote_hours">"Dawn-Midnight"</string>
+    <string name="land_ote_phone">"Phone: N/A"</string>
+    <!-- Info, Landmarks, Alexander the Great Statue -->
+    <string name="land_alx_title">Alexander the Great Statue</string>
+    <string name="land_alx_description">"It is an impressive, six meters (20 ft.) tall monument that represents Alexander while riding his horse “Voukefalas” (Bucephalus), one of the most famous actual horses of antiquity."</string>
+    <string name="land_alx_address">"Thessaloniki 546 21"</string>
+    <string name="land_alx_hours">"Open All Day"</string>
+    <string name="land_alx_phone">"Phone: N/A"</string>
+
+    <!-- Info, Museums, Archaeological Museum of Thessaloniki -->
+    <string name="mus_archmus_title">Archaeological Museum of Thessaloniki</string>
+    <string name="mus_archmus_description">"The Archaeological Museum of Thessaloniki is a museum in Thessaloniki, Central Macedonia, Greece. It holds and interprets artifacts from the Archaic, Classical, Hellenistic and Roman periods, mostly from the city of Thessaloniki but also from the region of Macedonia in general."</string>
+    <string name="mus_archmus_address">"Manoli Andronikou 6, Thessaloniki 546 21"</string>
+    <string name="mus_archmus_hours">"Everyday 9AM–4PM"</string>
+    <string name="mus_archmus_phone">"+30 231 331 0201"</string>
+    <!-- Info, Museums, Museum of Byzantine Culture -->
+    <string name="mus_byzcult_title">Museum of Byzantine Culture</string>
+    <string name="mus_byzcult_description">"The Museum of Byzantine Culture is a museum in Thessaloniki, Central Macedonia, Greece, which opened in 1994."</string>
+    <string name="mus_byzcult_address">"Leof. Stratou 2, Thessaloniki 546 21"</string>
+    <string name="mus_byzcult_hours">"Everyday 9AM–4PM"</string>
+    <string name="mus_byzcult_phone">"+30 231 330 6400"</string>
+    <!-- Info, Museums, Atatürk Museum -->
+    <string name="mus_ataturk_title">Atatürk Museum</string>
+    <string name="mus_ataturk_description">"The Atatürk Museum is a historic house museum in Thessaloniki, Central Macedonia, Greece. The house is the birthplace of the founder of modern Turkey, Mustafa Kemal Atatürk, who was born here in 1881."</string>
+    <string name="mus_ataturk_address">"Apostolou Pavlou 17, Thessaloniki 546 34"</string>
+    <string name="mus_ataturk_hours">"Everyday 10AM–5PM"</string>
+    <string name="mus_ataturk_phone">"+30 231 024 8452"</string>
+    <!-- Info, Museums, Jewish Museum of Thessaloniki -->
+    <string name="mus_jewish_title">Jewish Museum of Thessaloniki</string>
+    <string name="mus_jewish_description">"The Jewish Museum of Thessaloniki is a museum in Thessaloniki, Central Macedonia, Greece presenting the history of Sephardic Jews and Jewish life in Thessaloniki."</string>
+    <string name="mus_jewish_address">"Agiou Mina 13, Thessaloniki 546 24"</string>
+    <string name="mus_jewish_hours">"Mon-Tue-Thu-Fri: 10AM–3PM\nWed: 10AM–3PM, 5–8PM\nSat: Closed\nSun: 10AM–2PM"</string>
+    <string name="mus_jewish_phone">"+30 231 025 0406"</string>
+    <!-- Info, Museums, Macedonian Museum of Contemporary Art -->
+    <string name="mus_maccontart_title">Macedonian Museum of Contemporary Art</string>
+    <string name="mus_maccontart_description">"Macedonian Museum of Contemporary Art is a contemporary art museum in Thessaloniki, Central Macedonia, Greece."</string>
+    <string name="mus_maccontart_address">"Egnatia 154, Inside Helexpo, Thessaloniki 546 36"</string>
+    <string name="mus_maccontart_hours">"Mon-Wed: Closed\nThu-Sat: 10AM–6PM\nSun: 11AM–3PM"</string>
+    <string name="mus_maccontart_phone">"+30 231 024 0002"</string>
+    <!-- Info, Museums, Museum of Photography -->
+    <string name="mus_photogr_title">Museum of Photography</string>
+    <string name="mus_photogr_description">"Museum of Photography, Thessaloniki is located in Thessaloniki, Central Macedonia, Greece. The museum was founded in 1987 by Aris Georgiou, Apostolos Maroulis and Yiannis Vanidis but it was not until 1997 that it was legally established and until 1998 that it opened with Giorgos Makris as its president and Aris Georgiou as its first director. It is currently housed in Warehouse 1 of the harbor of Thessaloniki, next to the Thessaloniki Cinema Museum."</string>
+    <string name="mus_photogr_address">"Warehouse A', Port of Thessaloniki, 540 15"</string>
+    <string name="mus_photogr_hours">"Mon: Closed\nTue-Sun: 11AM–7PM\nFri: 11AM–10PM"</string>
+    <string name="mus_photogr_phone">"+30 231 056 6716"</string>
+    <!-- Info, Museums, Museum for the Macedonian Struggle -->
+    <string name="mus_macstrug_title">Museum for the Macedonian Struggle</string>
+    <string name="mus_macstrug_description">"The Museum for the Macedonian Struggle is located in the centre of the city Thessaloniki in Central Macedonia, Greece. It occupies a neo-classical building designed by the renowned architect Ernst Ziller and built in 1893."</string>
+    <string name="mus_macstrug_address">"Proxenou Koromila 23, Thessaloniki 546 22"</string>
+    <string name="mus_macstrug_hours">"Mon-Fri: 9AM–2PM\nSat: 10AM–2PM\nSun: Closed"</string>
+    <string name="mus_macstrug_phone">"+30 231 022 9778"</string>
+    <!-- Info, Museums, State Museum of Contemporary Art -->
+    <string name="mus_statecontart_title">State Museum of Contemporary Art</string>
+    <string name="mus_statecontart_description">"The Thessaloniki State Museum of Contemporary Art is a state museum based in Thessaloniki, Central Macedonia, Greece. It was founded in 1997, at the occasion of Thessaloniki's year as European Capital of Culture."</string>
+    <string name="mus_statecontart_address">"Kolokotroni 21, Stavroupoli 564 30"</string>
+    <string name="mus_statecontart_hours">"Mon: Closed\nTue-Sun: 10AM–6PM\nThu: 10AM–10PM"</string>
+    <string name="mus_statecontart_phone">"+30 231 058 9143"</string>
+    <!-- Info, Museums, Folk Art and Ethnological Museum of Macedonia and Thrace -->
+    <string name="mus_folkart_title">Folk Art and Ethnological Museum of Macedonia and Thrace</string>
+    <string name="mus_folkart_description">"The Folk Art and Ethnological Museum of Macedonia and Thrace is located in Thessaloniki, Central Macedonia, Greece."</string>
+    <string name="mus_folkart_address">"Filippou Nikoglou 1, Thessaloniki 546 42"</string>
+    <string name="mus_folkart_hours">"Mon,Tue,Fri: 9AM–3:30PM\nWed: 9AM–9:30PM\nThu,Sat,Sun: Closed"</string>
+    <string name="mus_folkart_phone">"+30 231 088 9840"</string>
+    <!-- Info, Museums, Thessaloniki Olympic Museum -->
+    <string name="mus_olympic_title">Thessaloniki Olympic Museum</string>
+    <string name="mus_olympic_description">"Thessaloniki Olympic Museum, the unique Olympic Museum of Greece, is situated at Thessaloniki, Central Macedonia, Greece. The museum is located on the confluence and educational, athletic and cultural routes of the city."</string>
+    <string name="mus_olympic_address">"3is Septemvriou, Thessaloniki 546 36"</string>
+    <string name="mus_olympic_hours">"Mon-Fri: 9AM–7PM\nSat: 10AM–4PM\nSun: 10AM–2PM"</string>
+    <string name="mus_olympic_phone">"+30 231 096 8531"</string>
+
+    <!-- Info, Food, Ouzeri Tsinari -->
+    <string name="food_tsi_title">Ouzeri Tsinari</string>
+    <string name="food_tsi_description">"Greek, Mediterranean"</string>
+    <string name="food_tsi_address">"Alexandras Papadopoulou 74, Thessaloniki 546 33"</string>
+    <string name="food_tsi_hours">"1PM–12AM"</string>
+    <string name="food_tsi_phone">"+30 231 028 4028"</string>
+    <!-- Info, Food, Clochard -->
+    <string name="food_clo_title">Clochard</string>
+    <string name="food_clo_description">"Mediterranean, European, Greek"</string>
+    <string name="food_clo_address">"4 Proxenou Koromila Labrou, Thessaloniki 546 23"</string>
+    <string name="food_clo_hours">"Sun: 1:00 PM - 6:00 PM\nMon - Sat: 12:00 PM - 1:00 AM"</string>
+    <string name="food_clo_phone">"+30 231 023 9805"</string>
+    <!-- Info, Food, Koukos -->
+    <string name="food_kou_title">Koukos</string>
+    <string name="food_kou_description">"Cafe, Greek, Mediterranean"</string>
+    <string name="food_kou_address">"10 Vogatsikou, Thessaloniki 546 22"</string>
+    <string name="food_kou_hours">"Sun: 8:00 AM - 10:00 PM\nMon - Fri: 7:00 AM - 10:00 PM\nSat: 7:30 AM - 10:00 PM"</string>
+    <string name="food_kou_phone">"+30 231 024 2403"</string>
+    <!-- Info, Food, Prytanio -->
+    <string name="food_pry_title">Prytanio</string>
+    <string name="food_pry_description">"Mediterranean, Greek, Vegetarian Friendly"</string>
+    <string name="food_pry_address">"72 Papadopoulou Alexandras | Tsinari, Thessaloniki 546 33"</string>
+    <string name="food_pry_hours">"Sun: 12:30 PM - 7:00 PM\nMon - Sat: 12:30 PM - 12:30 AM"</string>
+    <string name="food_pry_phone">"+30 231 028 6356"</string>
+    <!-- Info, Food, Opsopoion Manganeiai -->
+    <string name="food_ops_title">Opsopoion Manganeiai</string>
+    <string name="food_ops_description">"Mediterranean, European, Greek"</string>
+    <string name="food_ops_address">"Emiliou Riadi 5, Thessaloniki 546 40"</string>
+    <string name="food_ops_hours">"Sun: 2:00 PM - 5:00 PM\nTue - Sat: 2:00 PM - 12:00 AM"</string>
+    <string name="food_ops_phone">"+30 231 088 9699"</string>
+    <!-- Info, Food, Marea Sea Spirit -->
+    <string name="food_mar_title">Marea Sea Spirit</string>
+    <string name="food_mar_description">"Greek, Seafood, Mediterranean"</string>
+    <string name="food_mar_address">"13 Margariti Lori | Kallari, Thessaloniki 546 22"</string>
+    <string name="food_mar_hours">"Sun - Sat: 12:00 PM - 12:00 AM"</string>
+    <string name="food_mar_phone">"+30 231 025 7696"</string>
+    <!-- Info, Food, Roots Vegan & Vegetarian Place -->
+    <string name="food_roo_title">"Roots Vegan &amp; Vegetarian Place"</string>
+    <string name="food_roo_description">"Mediterranean, Greek, Vegetarian Friendly"</string>
+    <string name="food_roo_address">"4&#8211;6 Balanou, Thessaloniki 546 23"</string>
+    <string name="food_roo_hours">"Sun - Sat: 10:00 AM - 2:00 AM"</string>
+    <string name="food_roo_phone">"+30 231 026 8063"</string>
+    <!-- Info, Food, Nea Folia -->
+    <string name="food_fol_title">Nea Folia</string>
+    <string name="food_fol_description">"Mediterranean, Greek, Vegetarian Friendly"</string>
+    <string name="food_fol_address">"4 Aristomenous, Thessaloniki 546 34"</string>
+    <string name="food_fol_hours">Service Hours: TBA</string>
+    <string name="food_fol_phone">"+30 231 096 0383"</string>
+
+
+    <!-- Info, Food, White Tower -->
+    <string name="food__title"></string>
+    <string name="food__description"></string>
+    <string name="food__address"></string>
+    <string name="food__hours"></string>
+    <string name="food__phone"></string>
+    
+<!--
+
+
+-->
+</resources>

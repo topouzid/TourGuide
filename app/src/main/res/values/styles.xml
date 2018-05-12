@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Style for category tabs -->
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@android:color/white</item>
+        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+    </style>
+
+    <!-- Style for text appearance of tab categories -->
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#A8A19E</item>
+    </style>
+
+    <!-- Style for text appearance of list titles / names -->
+    <style name="ListTitleTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/list_title_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Style for text appearance of list description -->
+    <style name="ListDescriptionTextStyle">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/list_description_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_marginBottom">@dimen/list_item_vertical_margin</item>
+    </style>
+
+    <!-- Style for text appearance of list item info fields -->
+    <style name="ListInfoTextStyle">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/list_description_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textAlignment">viewEnd</item>
+    </style>
+
+</resources>
